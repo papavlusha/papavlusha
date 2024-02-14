@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Pavel, a passionate , back end programmer.
+I'm Pavel, a passionate , backend programmer.
 
 ---
 
